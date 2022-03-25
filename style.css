@@ -6,6 +6,7 @@ background-color: palevioletred;
 text-align: center;
 }
 h1 {
+    padding-top: 100px;
     color:black;
-    font-size: 300px;
+    font-size: 200px;
 }
