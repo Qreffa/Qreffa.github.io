@@ -1,0 +1,11 @@
+
+body{
+font-family: 'Cabin', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+background-color: palevioletred;
+text-align: center;
+}
+h1 {
+    color:black;
+    font-size: 300px;
+}
