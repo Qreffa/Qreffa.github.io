@@ -87,7 +87,7 @@ const questions = [
     ]
   },
   {
-    question: "İstanbul'un fethi ile Avrupada hangi yönemtim şekli kalkmiştir? ",
+    question: "İstanbul'un fethi ile Avrupada hangi yönetim şekli kalkmiştir? ",
     answers: [
       { text: 'Feodalite', correct: true },
       { text: 'Skolastik Dusunce', correct: false },
