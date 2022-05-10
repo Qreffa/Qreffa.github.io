@@ -112,5 +112,24 @@ const questions = [
       { text: 'Osman gazi', correct: false },
       { text: 'II. Abdulhamit', correct: false },
     ]
+  },
+  {
+    question: "Aşağidaki tarihlerin hangisi Osmanli Devletinin kuruluş tarihidir?",
+    answers: [
+      { text: '1258', correct: false },
+      { text: '1298', correct: false },
+      { text: '1288', correct: false },
+      { text: '1299', correct: true },
+    ]
+  },
+  {
+    question: "Osmanli Devletinin Rumenlide edindiği ilk toprak hangisidir?",
+    answers: [
+      { text: 'Anadolu Hisari', correct: false },
+      { text: 'Karacahisar Kalesi', correct: false },
+      { text: 'Rumeli Hisari', correct: false },
+      { text: 'Çimpe Kalesi', correct: true },
+    ]
   }
+  
 ]
