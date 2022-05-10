@@ -89,10 +89,10 @@ const questions = [
   {
     question: "İstanbul'un fethi ile Avrupada hangi yönetim şekli kalkmiştir? ",
     answers: [
-      { text: 'Feodalite', correct: true },
+      { text: 'Teokrasi', correct: false },
       { text: 'Skolastik Dusunce', correct: false },
       { text: 'Demokrasi', correct: false },
-      { text: 'Teokrasi', correct: false }
+      { text: 'Feodalite', correct: true }
     ]
   },
   {
