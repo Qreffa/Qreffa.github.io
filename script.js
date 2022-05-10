@@ -107,7 +107,7 @@ const questions = [
   {
     question: "İstanbul'u ilk kez kuşatan Osmanli padişahi ?",
     answers: [
-      { text: 'Fatih Sultan m', correct: false },
+      { text: 'Fatih Sultan Mehmet', correct: false },
       { text: 'I. Beyazid', correct: true },
       { text: 'Osman gazi', correct: false },
       { text: 'II. Abdulhamit', correct: false },
